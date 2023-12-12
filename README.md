@@ -3215,6 +3215,7 @@ _Software written in Go._
 
 ### Other Software
 
+- [archie](https://github.com/superleaguegaming/archie) - Sync files in realtime from MinIO buckets to cloud provider object storage using NATS JetStream and KEDA Autoscaling in Kubernetes
 - [Better Go Playground](https://goplay.tools) - Go playground with syntax highlight, code completion and other features.
 - [blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features.
 - [borg](https://github.com/crufter/borg) - Terminal based search engine for bash snippets.
